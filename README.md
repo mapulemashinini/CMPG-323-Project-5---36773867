@@ -15,6 +15,30 @@ Data can be analyzed and explored both on-premises and in the cloud using Power 
 ![image](https://user-images.githubusercontent.com/110629391/201110101-a4503da1-5c0c-455a-b22e-d509cdc4bd31.png)
 
 
+The Dashboard
+You will be able to at a glance have a view of the following:
+* High Level Metrics
+* Device Monitoring
+* Device Registration
+
+
+High Level Metrics Views
+* Active devices by Year
+* Active categories by Year
+
+Device Monitoring
+* Devices Per Category
+* Online vs Offline devices
+* Devices per Zone
+
+Device Registration
+* Devices Registered over time
+* Device Categories
+* Zones with Active devices over time
+
+
+All views have the ability to drill down & obtain visualised stats at a granular level.
+
  
  
 
